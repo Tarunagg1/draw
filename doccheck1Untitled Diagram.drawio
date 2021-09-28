@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T03:55:35.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yudSAnz5fNx2JdfykcU3" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T03:57:33.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="1ucUls170oe8pZuC0ijW" version="15.0.6" type="github">
   <diagram id="zFj3XWUCF2M8eDNX7syh" name="Page-1">
-    <mxGraphModel dx="2076" dy="1234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,23 +261,23 @@
         <mxCell id="dXM-Sb4pALPXDj6CTkbi-75" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DOCTOR REGISTER&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1620" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dXM-Sb4pALPXDj6CTkbi-76" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dXM-Sb4pALPXDj6CTkbi-74">
+        <mxCell id="dXM-Sb4pALPXDj6CTkbi-76" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dXM-Sb4pALPXDj6CTkbi-74" target="dXM-Sb4pALPXDj6CTkbi-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1690" as="sourcePoint" />
             <mxPoint x="740" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXM-Sb4pALPXDj6CTkbi-77" value="" style="endArrow=classic;html=1;exitX=0.851;exitY=0.719;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dXM-Sb4pALPXDj6CTkbi-78">
+        <mxCell id="dXM-Sb4pALPXDj6CTkbi-77" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dXM-Sb4pALPXDj6CTkbi-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="1660.33" as="sourcePoint" />
-            <mxPoint x="1160" y="1665.4285539899554" as="targetPoint" />
+            <mxPoint x="850" y="1730" as="sourcePoint" />
+            <mxPoint x="835" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXM-Sb4pALPXDj6CTkbi-78" value="patient data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1630" width="130" height="60" as="geometry" />
+        <mxCell id="dXM-Sb4pALPXDj6CTkbi-78" value="&lt;font style=&quot;font-size: 36px&quot;&gt;doctor list&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1880" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dXM-Sb4pALPXDj6CTkbi-79" value="&lt;font style=&quot;font-size: 18px&quot;&gt;VIEW REGISTER DOC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1610" width="160" height="50" as="geometry" />
+        <mxCell id="dXM-Sb4pALPXDj6CTkbi-79" value="&lt;font style=&quot;font-size: 24px&quot;&gt;MY DOCTOR&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1790" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dXM-Sb4pALPXDj6CTkbi-80" value="&lt;span style=&quot;font-size: 18px&quot;&gt;LOGIN DOCTOR&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1590" width="170" height="140" as="geometry" />
