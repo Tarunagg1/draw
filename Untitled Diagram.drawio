@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T06:01:48.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="tzDyhPuUYiSXpTproFzx" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T06:03:32.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4knW-GPF5Vq3iISJs6Eu" version="16.2.7" type="github">
   <diagram id="ZJvvMEEN9li1mQhJDmkr" name="Page-1">
-    <mxGraphModel dx="1597" dy="3242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="1597" dy="3144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,8 +159,8 @@
         <mxCell id="kDcWoAi_TzpZwLmm5Dsw-3" value="Time series Db" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kDcWoAi_TzpZwLmm5Dsw-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Kafka&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="495" width="120" height="105" as="geometry" />
+        <mxCell id="kDcWoAi_TzpZwLmm5Dsw-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Kafka&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="505.63" width="140" height="73.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
