@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T06:42:53.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pHGPfaewt6yehqnMwZlh" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T06:43:11.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sd71Q-lrSI6wRgAM2l3r" version="16.2.7" type="github">
   <diagram id="ZJvvMEEN9li1mQhJDmkr" name="Page-1">
     <mxGraphModel dx="1597" dy="3242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="1">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="kDcWoAi_TzpZwLmm5Dsw-8" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Kinesis&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kDcWoAi_TzpZwLmm5Dsw-9" value="" style="endArrow=classic;html=1;rounded=1;fontSize=24;entryX=0;entryY=0;entryDx=0;entryDy=90;entryPerimeter=0;exitX=0.996;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kDcWoAi_TzpZwLmm5Dsw-8" target="kDcWoAi_TzpZwLmm5Dsw-2">
+        <mxCell id="kDcWoAi_TzpZwLmm5Dsw-9" value="" style="endArrow=classic;html=1;rounded=1;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kDcWoAi_TzpZwLmm5Dsw-8" target="kDcWoAi_TzpZwLmm5Dsw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="119.99999999999977" y="170" as="sourcePoint" />
             <mxPoint x="119.99999999999977" y="250" as="targetPoint" />
